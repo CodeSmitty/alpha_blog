@@ -4,7 +4,7 @@
 
 
 
-*
+
 * I created application using "rails new app_name"
 
 * I followed the course and created a new controller with "rails generate controller page_name"
